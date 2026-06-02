@@ -1,0 +1,6 @@
+{
+  "name": "AI Financial Insight",
+  "description": "Premium fintech portfolio app with AI Advisor, receipt scanner, transaction auto-categorization, expense forecaster, anomaly detection, budget goals, and multi-account features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
